@@ -1,4 +1,4 @@
-# conuhack
+# ConUHacks III: Video Juice
 
 ### Contributors :busts_in_silhouette:
 - Sahil Kapal
